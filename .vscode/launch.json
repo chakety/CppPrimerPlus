@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/GitHub/CppPrimerPlus/chapter2",
-      "program": "d:/GitHub/CppPrimerPlus/chapter2/build/Debug/outDebug",
+      "cwd": "d:/GitHub/CppPrimerPlus",
+      "program": "d:/GitHub/CppPrimerPlus/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
